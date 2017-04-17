@@ -1,5 +1,7 @@
 # YDK
  YOLO based object detection in Keras. The network config and the weight file are downloaded from the original [Darknet](https://pjreddie.com/darknet/yolo/). Network config and weight file are converted to Keras compatible JSON file and H5 file respectively. 
+ 
+ ![result demo](result/demo.gif)
 
  ## Dependencies
 
